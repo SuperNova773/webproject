@@ -1,2 +1,2 @@
 # webproject
-practiceproject(foodcurrency converter)
+foodRecipe
